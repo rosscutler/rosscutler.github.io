@@ -10,9 +10,9 @@ My Google Scholar page is [here](https://scholar.google.com/citations?user=Qee1A
 A complete list of publications is [here](Ross_Cutler_Publications.pdf)
 
 ## Recent talks
-- RTC @ Scale, 2022
-- Intel Speech Conference Keynote, 2021
-- INTERNOISE Keynote, 2021
+- RTC @ Scale, 2022. [Developing Machine Learning Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
+- Intel Speech Conference Keynote, 2021.  Developing Machine Learning Based Speech Enhancement Models for Teams and Skype
+- INTERNOISE Keynote, 2021.  Developing Machine Learning Based Speech Enhancement Models for Teams and Skype
 
 ## Projects
 Below are some of the projects I've worked on.
@@ -59,14 +59,27 @@ Models, optimizations, other:
 
 The goal of this project is to create a ML-based video codec with 3X the coding effeciency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
 
-Some publications:
+Publications:
 
 - [A crowdsourced implementation of ITU-T P. 910](https://arxiv.org/pdf/2204.06784.pdf)
 - [CVPR 2022 CLIC Challenge]()
 
 ### ML bandwidth estimation and control
 
+The goal of this project is to estimate how much bandwidth we can send accross the internet for video calls. Traditionally this has been solved with classic control theory. We are using machine learning and in particular deep reinforcement learning. This is an especially challenging problem because unlike audio or video, the data here is the internet, which is impossible to simulate accurately. 
+
+Publications:
+
+- [Reinforcement learning for bandwidth estimation and congestion control in real-time communications](https://arxiv.org/pdf/1912.02222.pdf)
+
 ### Meeting effectiveness and inclusiveness
+
+Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal for this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness, and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
+
+Publications:
+
+- [Meeting effectiveness and inclusiveness in remote collaboration](https://arxiv.org/ftp/arxiv/papers/2102/2102.09803.pdf)
+- [Improving meeting inclusiveness using speech interruption analysis]()
 
 ### Active speaker detection
 
