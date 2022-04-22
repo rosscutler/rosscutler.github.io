@@ -39,7 +39,7 @@ Some publications for this project are:
 - [INTERSPEECH 2021 Deep Noise Suppression Challenge](https://arxiv.org/pdf/2101.01902.pdf)
 - [Subjective evaluation of noise suppression algorithms in crowdsourcing](https://arxiv.org/pdf/2010.13200.pdf)
 - [DNN no-reference PSTN speech quality prediction](https://arxiv.org/pdf/2007.14598.pdf)
-- [An open source implementation of itu-t recommendation P.808 with validation](https://arxiv.org/pdf/2005.08138.pdf)
+- [An open source implementation of ITU-T recommendation P.808 with validation](https://arxiv.org/pdf/2005.08138.pdf)
 - [The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, subjective testing framework, and challenge results](https://arxiv.org/pdf/2005.13981.pdf)
 - [Intrusive and non-intrusive perceptual speech quality assessment using a convolutional neural network](https://www.researchgate.net/profile/Hannes-Gamper/publication/336722543_Intrusive_and_Non-Intrusive_Perceptual_Speech_Quality_Assessment_Using_a_Convolutional_Neural_Network/links/5daf5407a6fdccc99d92c60b/Intrusive-and-Non-Intrusive-Perceptual-Speech-Quality-Assessment-Using-a-Convolutional-Neural-Network.pdf)
 - [A scalable noisy speech dataset and online subjective test framework](https://arxiv.org/pdf/1909.08050&ved=2ahUKEwjMr6LD3aPqAhXtYd8KHZ7ECl0QFjAAegQIBRAC&usg=AOvVaw01MCa2LbkZ3KXTi21FHjsq)
