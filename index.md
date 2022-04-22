@@ -18,7 +18,7 @@ A complete list of publications is [here](Ross_Cutler_Publications.pdf)
 Below are some of the projects I've worked on.
 
 ### ML speech enhancement
-The goal of this project is to replace the DSP-based speech enhancement components in Teams/Skype with better performing ML-based models. To do so we first created scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presense of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
+The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with better performing ML-based models that also offer new functionality. To do so we first created scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presense of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
 
 Some publications for this project are:
 
@@ -56,6 +56,13 @@ Models, optimizations, other:
 - [Weighted speech distortion losses for neural-network-based real-time speech enhancement](https://arxiv.org/pdf/2001.10601.pdf)
 
 ### ML video codec
+
+The goal of this project is to create a ML-based video codec with 3X the coding effeciency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
+
+Some publications:
+
+- [A crowdsourced implementation of ITU-T P. 910](https://arxiv.org/pdf/2204.06784.pdf)
+- [CVPR 2022 CLIC Challenge]()
 
 ### ML bandwidth estimation and control
 
