@@ -1,6 +1,6 @@
 ## Ross Cutler
 
-I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building hardware as well as software. On this page I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
+I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building hardware as well as software. On this page, I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
 
 You can find more info about me on my [LinkedIn page](https://www.linkedin.com/in/rosscutler) and my [Microsoft Research page]( https://www.microsoft.com/en-us/research/people/rcutler). 
 
@@ -10,9 +10,9 @@ My Google Scholar page is [here](https://scholar.google.com/citations?user=Qee1A
 A complete list of publications is [here](Ross_Cutler_Publications.pdf)
 
 ## Recent talks
-- RTC @ Scale, 2022. [Developing Machine Learning Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
-- Intel Speech Conference Keynote, 2021.  Developing Machine Learning Based Speech Enhancement Models for Teams and Skype
-- INTERNOISE Keynote, 2021.  Developing Machine Learning Based Speech Enhancement Models for Teams and Skype
+- RTC @ Scale, 2022. [Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
+- Intel Speech Conference Keynote, 2021.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
+- INTERNOISE Keynote, 2021.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
 
 ## Projects
 Below are some of the projects I've worked on.
@@ -66,7 +66,7 @@ Publications:
 
 ### ML bandwidth estimation and control
 
-The goal of this project is to estimate how much bandwidth we can send across the internet for video calls. Traditionally this has been solved with classic control theory. We are using machine learning and in particular deep reinforcement learning. This is an especially challenging problem because unlike audio or video, the data here is the internet, which is impossible to simulate accurately. 
+The goal of this project is to estimate how much bandwidth we can send across the internet for video calls. Traditionally this has been solved with classic control theory. We are using machine learning and in particular deep reinforcement learning. This is an especially challenging problem because, unlike audio or video, the data here is the internet, which is impossible to simulate accurately. 
 
 Publications:
 
@@ -93,7 +93,7 @@ Publications:
 
 ### Lightfield camera/display video conferencing
 
-The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to achieve this. Two prototypes I've worked on called TeleWall and TeleWindow target designed to meet these goals using lightfield cameras and AR glasses. 
+The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to achieve this. Two prototypes I've worked on called TeleWall and TeleWindow are designed to meet these goals using lightfield cameras and AR glasses. 
 
 Patents:
 
@@ -105,7 +105,7 @@ Patents:
 
 ### Camera designs
 
-I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost reduced design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. Some of these are described below.
+I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
 
 Publications:
 
@@ -177,7 +177,7 @@ Patents:
 
 ### Periodic motion detection and analysis
 
-Part of my PhD thesis was on detecting and analying periodic motion, especially biological motion like human gait. This work showed you can detect biologically motion with very few pixels, and even identify people using this motion. 
+Part of my Ph.D. thesis was on detecting and analyzing periodic motion, especially biological motion like human gait. This work showed you can detect biological motion with very few pixels, and even identify people using this motion. 
 
 Publications:
 
