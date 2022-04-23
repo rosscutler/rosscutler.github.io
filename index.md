@@ -1,8 +1,8 @@
 ## Ross Cutler
 
-I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm compfortable building hardware as well as software. In this page I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
+I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building hardware as well as software. On this page I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
 
-You can find more info about me in my [LinkedIn page](https://www.linkedin.com/in/rosscutler) and my [Microsoft Research page]( https://www.microsoft.com/en-us/research/people/rcutler). 
+You can find more info about me on my [LinkedIn page](https://www.linkedin.com/in/rosscutler) and my [Microsoft Research page]( https://www.microsoft.com/en-us/research/people/rcutler). 
 
 ## Publications
 
@@ -18,7 +18,7 @@ A complete list of publications is [here](Ross_Cutler_Publications.pdf)
 Below are some of the projects I've worked on.
 
 ### ML speech enhancement
-The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presense of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
+The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created a scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presence of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally, the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
 
 Some publications for this project are:
 
@@ -57,7 +57,7 @@ Models, optimizations, other:
 
 ### ML video codec
 
-The goal of this project is to create a ML-based video codec with 3X the coding effeciency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
+The goal of this project is to create a ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
 
 Publications:
 
@@ -66,7 +66,7 @@ Publications:
 
 ### ML bandwidth estimation and control
 
-The goal of this project is to estimate how much bandwidth we can send accross the internet for video calls. Traditionally this has been solved with classic control theory. We are using machine learning and in particular deep reinforcement learning. This is an especially challenging problem because unlike audio or video, the data here is the internet, which is impossible to simulate accurately. 
+The goal of this project is to estimate how much bandwidth we can send across the internet for video calls. Traditionally this has been solved with classic control theory. We are using machine learning and in particular deep reinforcement learning. This is an especially challenging problem because unlike audio or video, the data here is the internet, which is impossible to simulate accurately. 
 
 Publications:
 
@@ -83,7 +83,7 @@ Publications:
 
 ### Active speaker detection
 
-I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal fusion to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active areas of research and still a project I'm working on.
+I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal fusion to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active area of research and still a project I'm working on.
 
 Publications:
 
@@ -93,7 +93,7 @@ Publications:
 
 ### Lightfield camera/display video conferencing
 
-The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to a. Two prototypes I've worked on call TeleWall and TeleWindow target meeting these goals using lightfield cameras and AR glasses. 
+The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to achieve this. Two prototypes I've worked on called TeleWall and TeleWindow target designed to meet these goals using lightfield cameras and AR glasses. 
 
 Patents:
 
@@ -105,7 +105,7 @@ Patents:
 
 ### Camera designs
 
-I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first comercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost reduced design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. Some of these are described below.
+I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost reduced design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. Some of these are described below.
 
 Publications:
 
@@ -123,11 +123,11 @@ Patents:
 
 ## Video DSP 
 
-I've implemented many video DSP components, include panoramic stiching, smart gain control, camera calibration for panoramic cameras, and normalizing the size of heads in video conferences. Some of these are described below:
-
+I've implemented many video DSP components, including panoramic stitching, smart gain control, camera calibration for panoramic cameras, normalizing the size of heads in video conferences, and demosiacing (used in Matlab and NASA Mars missings). Some of these are described below:
 
 Publications:
 
+- [High-quality linear interpolation for demosaicing of Bayer-patterned color images](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6368&rep=rep1&type=pdf)
 - [Automatic head-size equalization in panorama images for video conferencing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-48.pdf)
 - [Head-size equalization for improved visual perception in video conferencing](https://www.microsoft.com/en-us/research/publication/2016/11/Head-size-Equalization-for-Improved-Visual-Perception-in-Video-Conferencing.pdf)
 - [Practical calibrations for a real-time digital omnidirectional camera](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.2186&rep=rep1&type=pdf)
@@ -138,10 +138,28 @@ Patents:
 - [Temperature compensation in multi-camera photographic devices](https://patentimages.storage.googleapis.com/da/13/c9/10b78e7d00eafa/US7602412.pdf)
 - [Privacy camera](https://patentimages.storage.googleapis.com/05/19/d5/9edd837fc95357/US9124762.pdf)
 - [System and method for camera calibration and images stitching](https://patentimages.storage.googleapis.com/16/29/2a/6c3dae8d1cd36c/US7936374.pdf)
+- [Minimizing dead zones in panoramic images](https://patentimages.storage.googleapis.com/75/cd/60/00323a6be7264d/US7782357.pdf)
+- [Speaker and person backlighting for improved AEC and AGC](https://patentimages.storage.googleapis.com/6e/f6/ad/fe00f85d6ff2de/US8130257.pdf)
+- [Automatic gain and exposure control using region of interest detection](https://patentimages.storage.googleapis.com/99/8c/c4/295c2f0110564b/US8165416.pdf)
+- [Automatic detection of panoramic camera position and orientation table parameters](https://patentimages.storage.googleapis.com/e3/5d/25/cd878e016ec20c/US7630571.pdf)
+- [System and method for camera color calibration and image stitching](https://patentimages.storage.googleapis.com/46/7b/da/0d1dd6d83d19f5/US7259784B2.pdf)
+- [Automatic video framing](https://patentimages.storage.googleapis.com/55/f1/30/01adf7d692cb52/US8773499.pdf)
+- [Techniques for detecting a display device](https://patentimages.storage.googleapis.com/7d/c7/1e/fd57a819e39d5c/US8614734.pdf)
 
 ## Audio DSP audio
 
+I've implemented a number of audio DSP components also, such as speaking while muted detection, improved echo cancellers, and audio-based device discovery. Some of these are described below:
+
 Patents:
+
+- [Mute control in audio endpoints](https://patentimages.storage.googleapis.com/57/b5/df/a6777037f60fa2/US8620653.pdf)
+- [Removing near-end frequencies from far-end sound](https://patentimages.storage.googleapis.com/99/03/f3/174aeb42e522f8/US8744069.pdf)
+- [Endpoint echo detection](https://patentimages.storage.googleapis.com/74/59/e3/3b65ba44c604cc/US8488745.pdf)
+- [Reducing echo](https://patentimages.storage.googleapis.com/pdfs/US8433061.pdf)
+- [Enhanced discovery for ad-hoc meetings](https://patentimages.storage.googleapis.com/0f/34/10/2ba34aaeeea873/US9882990.pdf)
+- [System and process for discovery of network-connected devices at remote sites using audio-based discovery techniques](https://patentimages.storage.googleapis.com/67/15/af/b7cfb519cd9f61/US7525928.pdf) 
+- [System and method for communicating audio data signals via an audio communications medium](https://patentimages.storage.googleapis.com/48/94/e1/cde04f9386cdf0/US6934370.pdf)
+- [Audio start service for Ad-hoc meetings](https://patentimages.storage.googleapis.com/6d/bd/88/cbfb939fef0b39/US8245043.pdf)
 
 ### Acoustic designs
 
@@ -156,18 +174,16 @@ Patents:
 - [Microphone array for a camera speakerphone](https://patentimages.storage.googleapis.com/e1/3e/c6/f5cc2d36e3d075/US8526632.pdf)
 - [Boundary binaural microphone array](https://patentimages.storage.googleapis.com/dc/3e/b1/93fe8582b5b450/US9516417.pdf)
 
-### Demosaicing
-
-Demosaicing is the process of converting color filtered camera images like the common Bayer filter to RGB images. The below one is very good quality and super efficient for real-time applications. It's the demosiacer used in Matlab and has been used on NASA Mars Rover missions. 
-
-Publications:
-
-- [High-quality linear interpolation for demosaicing of Bayer-patterned color images](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6368&rep=rep1&type=pdf)
-
-### Gate analysis
-
-Publications:
 
 ### Periodic motion detection and analysis
 
+Part of my PhD thesis was on detecting and analying periodic motion, especially biological motion like human gait. This work showed you can detect biologically motion with very few pixels, and even identify people using this motion. 
+
 Publications:
+
+- [Gait recognition using image self-similarity](https://link.springer.com/content/pdf/10.1155/S1110865704309236.pdf)
+- [View-invariant estimation of height and stride for gait recognition](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.3944&rep=rep1&type=pdf)
+- [Stride and cadence as a biometric in automatic person identification and verification](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.3749&rep=rep1&type=pdf)
+- [Motion-based recognition of people in eigengait space](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.1270&rep=rep1&type=pdf)
+- [Eigengait: Motion-based recognition of people using image self-similarity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.172&rep=rep1&type=pdf)
+- [Robust real-time periodic motion detection, analysis, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.3779&rep=rep1&type=pdf)
