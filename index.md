@@ -83,7 +83,7 @@ Publications:
 
 ### Active speaker detection
 
-I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal future to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active areas of research and still a project I'm working on.
+I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal fusion to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active areas of research and still a project I'm working on.
 
 Publications:
 
@@ -105,39 +105,64 @@ Patents:
 
 ### Camera designs
 
-I've designed several types of cameras for teleconferencing besides the above light field cameras. My first was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. These are all described below.
+I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first comercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost reduced design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. Some of these are described below.
+
+Publications:
+
+- [Design and implementation of the University of Maryland Keck Laboratory for the analysis of visual movement](https://drum.lib.umd.edu/bitstream/handle/1903/1180/CS-TR-4329.pdf?sequence=1)
 
 Patents:
 
 - [360 degree camera](https://patentimages.storage.googleapis.com/3d/34/4c/fca70cf18e1b4c/US20200296268A1.pdf)
-- [Privacy camera](https://patentimages.storage.googleapis.com/05/19/d5/9edd837fc95357/US9124762.pdf)
-- [System and method for camera calibration and images stitching](https://patentimages.storage.googleapis.com/16/29/2a/6c3dae8d1cd36c/US7936374.pdf)
-- [Parametric calibration for panoramic camera systems](https://patentimages.storage.googleapis.com/ec/6c/3f/b25dfe6aad38d6/US7697839.pdf)
-- [Temperature compensation in multi-camera photographic devices](https://patentimages.storage.googleapis.com/da/13/c9/10b78e7d00eafa/US7602412.pdf)
 - [Multi-view integrated camera system with housing](https://patentimages.storage.googleapis.com/d4/e7/ff/36292762a25688/US7593057.pdf)
 - [Maintenance of panoramic camera orientation](https://patentimages.storage.googleapis.com/9d/92/2c/867d239df0bb08/US7593042.pdf)
 - [Omni-directional camera with calibration and up look angle improvements](https://patentimages.storage.googleapis.com/76/0d/63/df483481631f08/US7495694.pdf)
 - [Whiteboard view camera](https://patentimages.storage.googleapis.com/6d/bc/62/011395e6a341b8/US7397504.pdf)
 - [Omni-directional camera design for video conferencing](https://patentimages.storage.googleapis.com/76/d9/e2/d058e6ff9386c6/US7298392.pdf)
+- [Camera lens shuttering mechanism](https://patentimages.storage.googleapis.com/5a/62/47/a587719c6a0680/US7812882.pdf)
+
+## Video DSP 
+
+I've implemented many video DSP components, include panoramic stiching, smart gain control, camera calibration for panoramic cameras, and normalizing the size of heads in video conferences. Some of these are described below:
 
 
-## DSP video processing
+Publications:
+
+- [Automatic head-size equalization in panorama images for video conferencing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-48.pdf)
+- [Head-size equalization for improved visual perception in video conferencing](https://www.microsoft.com/en-us/research/publication/2016/11/Head-size-Equalization-for-Improved-Visual-Perception-in-Video-Conferencing.pdf)
+- [Practical calibrations for a real-time digital omnidirectional camera](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.2186&rep=rep1&type=pdf)
 
 Patents:
 
-- [System and method for head size equalization in 360 degree panoramic images](https://patentimages.storage.googleapis.com/16/97/4e/f524160191c41f/US7327899.pdf)
-- [Normalized images for cameras](https://patentimages.storage.googleapis.com/b8/d0/bb/83740a56b0e816/US7576766.pdf)
-## DSP audio processing
+- [Parametric calibration for panoramic camera systems](https://patentimages.storage.googleapis.com/ec/6c/3f/b25dfe6aad38d6/US7697839.pdf)
+- [Temperature compensation in multi-camera photographic devices](https://patentimages.storage.googleapis.com/da/13/c9/10b78e7d00eafa/US7602412.pdf)
+- [Privacy camera](https://patentimages.storage.googleapis.com/05/19/d5/9edd837fc95357/US9124762.pdf)
+- [System and method for camera calibration and images stitching](https://patentimages.storage.googleapis.com/16/29/2a/6c3dae8d1cd36c/US7936374.pdf)
+
+## Audio DSP audio
 
 Patents:
 
 ### Acoustic designs
 
+I've designed the physical acoustics for several shipping speakerphones. Some are described below:
+
 Patents:
+
+- [Audio device](https://patentimages.storage.googleapis.com/26/01/38/700e2a98dfc061/US20210136471A1.pdf)
+- [Method and system of varying mechanical vibrations at a microphone](https://patentimages.storage.googleapis.com/c1/1d/a3/06e62010525eb7/US10575110.pdf)
+- [Satellite microphones for improved speaker detection and zoom](https://patentimages.storage.googleapis.com/ab/07/a7/cc174296f3cd6a/US8314829.pdf)
+- [Satellite microphone array for video conferencing](https://patentimages.storage.googleapis.com/a3/a5/bd/0ca743b7eaa196/US8189807.pdf)
+- [Microphone array for a camera speakerphone](https://patentimages.storage.googleapis.com/e1/3e/c6/f5cc2d36e3d075/US8526632.pdf)
+- [Boundary binaural microphone array](https://patentimages.storage.googleapis.com/dc/3e/b1/93fe8582b5b450/US9516417.pdf)
 
 ### Demosaicing
 
+Demosaicing is the process of converting color filtered camera images like the common Bayer filter to RGB images. The below one is very good quality and super efficient for real-time applications. It's the demosiacer used in Matlab and has been used on NASA Mars Rover missions. 
+
 Publications:
+
+- [High-quality linear interpolation for demosaicing of Bayer-patterned color images](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.6368&rep=rep1&type=pdf)
 
 ### Gate analysis
 
