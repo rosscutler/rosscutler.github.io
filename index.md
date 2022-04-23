@@ -1,6 +1,6 @@
-## Welcome to my personal webpage
+## Ross Cutler
 
-I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. In this page I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
+I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm compfortable building hardware as well as software. In this page I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
 
 You can find more info about me in my [LinkedIn page](https://www.linkedin.com/in/rosscutler) and my [Microsoft Research page]( https://www.microsoft.com/en-us/research/people/rcutler). 
 
@@ -18,7 +18,7 @@ A complete list of publications is [here](Ross_Cutler_Publications.pdf)
 Below are some of the projects I've worked on.
 
 ### ML speech enhancement
-The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with better performing ML-based models that also offer new functionality. To do so we first created scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presense of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
+The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presense of noise, echo, packetloss, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. 
 
 Some publications for this project are:
 
@@ -83,14 +83,66 @@ Publications:
 
 ### Active speaker detection
 
+I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal future to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active areas of research and still a project I'm working on.
+
+Publications:
+
+- [Multimodal active speaker detection and virtual cinematography for video conferencing](https://arxiv.org/ftp/arxiv/papers/2002/2002.03977.pdf)
+- [Boosting-based multimodal speaker detection for distributed meeting videos](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/TMM08_SpeakerDet.pdf)
+- [Look who's talking: Speaker detection using video and audio correlation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3968&rep=rep1&type=pdf)
+
 ### Lightfield camera/display video conferencing
+
+The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to a. Two prototypes I've worked on call TeleWall and TeleWindow target meeting these goals using lightfield cameras and AR glasses. 
+
+Patents:
+
+- [Dynamic detection and correction of light field camera array miscalibration](https://patentimages.storage.googleapis.com/eb/20/41/2705d3c87c6fb5/US11270464.pdf)
+- [Light field camera modules and light field camera module arrays](https://patentimages.storage.googleapis.com/a3/2c/d5/20ca14ab6fabdd/US11082659.pdf)
+- [Device pose detection and pose-related image capture and processing for light field based telepresence communications](https://patentimages.storage.googleapis.com/a3/4b/5e/521c551eb78bbb/US11064154.pdf)
+- [Telepresence devices operation methods](https://patents.justia.com/patent/11089265)
+- [Telepresence device](https://patentimages.storage.googleapis.com/90/ed/24/586dfac44277a6/US10554928.pdf)
 
 ### Camera designs
 
+I've designed several types of cameras for teleconferencing besides the above light field cameras. My first was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 design uses just two cameras. I've also designed some front of the room cameras, privacy preserving webcams, and whiteboard cameras. These are all described below.
+
+Patents:
+
+- [360 degree camera](https://patentimages.storage.googleapis.com/3d/34/4c/fca70cf18e1b4c/US20200296268A1.pdf)
+- [Privacy camera](https://patentimages.storage.googleapis.com/05/19/d5/9edd837fc95357/US9124762.pdf)
+- [System and method for camera calibration and images stitching](https://patentimages.storage.googleapis.com/16/29/2a/6c3dae8d1cd36c/US7936374.pdf)
+- [Parametric calibration for panoramic camera systems](https://patentimages.storage.googleapis.com/ec/6c/3f/b25dfe6aad38d6/US7697839.pdf)
+- [Temperature compensation in multi-camera photographic devices](https://patentimages.storage.googleapis.com/da/13/c9/10b78e7d00eafa/US7602412.pdf)
+- [Multi-view integrated camera system with housing](https://patentimages.storage.googleapis.com/d4/e7/ff/36292762a25688/US7593057.pdf)
+- [Maintenance of panoramic camera orientation](https://patentimages.storage.googleapis.com/9d/92/2c/867d239df0bb08/US7593042.pdf)
+- [Omni-directional camera with calibration and up look angle improvements](https://patentimages.storage.googleapis.com/76/0d/63/df483481631f08/US7495694.pdf)
+- [Whiteboard view camera](https://patentimages.storage.googleapis.com/6d/bc/62/011395e6a341b8/US7397504.pdf)
+- [Omni-directional camera design for video conferencing](https://patentimages.storage.googleapis.com/76/d9/e2/d058e6ff9386c6/US7298392.pdf)
+
+
+## DSP video processing
+
+Patents:
+
+- [System and method for head size equalization in 360 degree panoramic images](https://patentimages.storage.googleapis.com/16/97/4e/f524160191c41f/US7327899.pdf)
+- [Normalized images for cameras](https://patentimages.storage.googleapis.com/b8/d0/bb/83740a56b0e816/US7576766.pdf)
+## DSP audio processing
+
+Patents:
+
 ### Acoustic designs
 
-### Demoicing
+Patents:
+
+### Demosaicing
+
+Publications:
 
 ### Gate analysis
 
+Publications:
+
 ### Periodic motion detection and analysis
+
+Publications:
