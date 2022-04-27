@@ -1,3 +1,5 @@
+![Sailing in the Puget Sound](sailing.jpg)
+
 ## Ross Cutler
 
 I'm an Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building software and hardware technologies. On this page, I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
