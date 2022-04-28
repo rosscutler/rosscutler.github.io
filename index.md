@@ -59,7 +59,7 @@ Models, optimizations, other:
 
 ### ML video codec
 
-The goal of this project is to create a ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
+The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
 
 Publications:
 
@@ -76,7 +76,7 @@ Publications:
 
 ### Meeting effectiveness and inclusiveness
 
-Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal for this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness, and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
+Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal of this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
 
 Publications:
 
@@ -93,9 +93,9 @@ Publications:
 - [Boosting-based multimodal speaker detection for distributed meeting videos](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/TMM08_SpeakerDet.pdf)
 - [Look who's talking: Speaker detection using video and audio correlation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3968&rep=rep1&type=pdf)
 
-### Lightfield camera/display video conferencing
+### Light field camera/display video conferencing
 
-The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face to face meetings. It will require new types of displays and cameras to achieve this. Two prototypes I've worked on called TeleWall and TeleWindow are designed to meet these goals using lightfield cameras and AR glasses. 
+The ultimate type of remote conferencing will preserve eye gaze, who is looking at who, have accurate spatial geometry, and achieve the same level of trust, empathy, meeting effectiveness and inclusiveness, and fatigue as face-to-face meetings. It will require new types of displays and cameras to achieve this. Two prototypes I've worked on called TeleWall and TeleWindow are designed to meet these goals using light field cameras and AR glasses. 
 
 Patents:
 
@@ -107,7 +107,7 @@ Patents:
 
 ### Camera designs
 
-I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high resolution 360 degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360 cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
+I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high-resolution 360-degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360-degree cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
 
 Publications:
 
