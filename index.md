@@ -63,7 +63,7 @@ The goal of this project is to create a ML-based video codec with >2X the coding
 
 Publications:
 
-- [A crowdsourced implementation of ITU-T P. 910](https://arxiv.org/pdf/2204.06784.pdf)
+- [A crowdsourced implementation of ITU-T P.910](https://arxiv.org/pdf/2204.06784.pdf)
 - [CVPR 2022 CLIC Challenge]()
 
 ### ML bandwidth estimation and control
