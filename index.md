@@ -9,7 +9,7 @@ You can find more info about me on my [LinkedIn page](https://www.linkedin.com/i
 ## Publications
 
 My Google Scholar page is [here](https://scholar.google.com/citations?user=Qee1AwMAAAAJ&hl=en&oi=ao).
-A complete list of publications is [here](Ross_Cutler_Publications.pdf)
+A complete list of publications is in my [CV](CV.pdf)
 
 ## Recent talks
 - RTC @ Scale, 2022. [Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
