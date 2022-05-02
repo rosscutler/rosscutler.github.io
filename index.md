@@ -176,7 +176,15 @@ Patents:
 - [Microphone array for a camera speakerphone](https://patentimages.storage.googleapis.com/e1/3e/c6/f5cc2d36e3d075/US8526632.pdf)
 - [Boundary binaural microphone array](https://patentimages.storage.googleapis.com/dc/3e/b1/93fe8582b5b450/US9516417.pdf)
 
+### Audio / video device quality
 
+I wrote the first several versions of the Skype / Teams video quality certification specifications and tools, which is the PC industry standard for how to measure the video quality for webcams. I also co-authored the Skype / Teams audio quality certification specifications, which is the PC industry standard for how to measure the send and receive audio quality. Both were developed after designing my own cameras and audio endpoints.
+
+Specifications:
+
+- [Microsoft Teams and Skype for Business specifications for USB peripherals, PCs, and Microsoft Teams Room systems, versions 1-3](https://docs.microsoft.com/en-us/skypeforbusiness/certification/test-spec)
+- [Microsoft Lync Specifications for USB peripherals, PCs, and Lync room systems, versions A-F](https://docs.microsoft.com/en-us/skypeforbusiness/certification/test-spec)
+- 
 ### Periodic motion detection and analysis
 
 Part of my Ph.D. thesis was on detecting and analyzing periodic motion, especially biological motion like human gait. This work showed you can detect biological motion with very few pixels, and even identify people using this motion. 
