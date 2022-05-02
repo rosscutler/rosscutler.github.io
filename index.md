@@ -123,7 +123,7 @@ Patents:
 - [Omni-directional camera design for video conferencing](https://patentimages.storage.googleapis.com/76/d9/e2/d058e6ff9386c6/US7298392.pdf)
 - [Camera lens shuttering mechanism](https://patentimages.storage.googleapis.com/5a/62/47/a587719c6a0680/US7812882.pdf)
 
-## Video DSP 
+### Video DSP 
 
 I've implemented many video DSP components, including panoramic stitching, smart gain control, camera calibration for panoramic cameras, normalizing the size of heads in video conferences, and demosiacing (used in Matlab and NASA Mars missings). Some of these are described below:
 
@@ -148,7 +148,7 @@ Patents:
 - [Automatic video framing](https://patentimages.storage.googleapis.com/55/f1/30/01adf7d692cb52/US8773499.pdf)
 - [Techniques for detecting a display device](https://patentimages.storage.googleapis.com/7d/c7/1e/fd57a819e39d5c/US8614734.pdf)
 
-## Audio DSP audio
+### Audio DSP audio
 
 I've implemented a number of audio DSP components also, such as speaking while muted detection, improved echo cancellers, and audio-based device discovery. Some of these are described below:
 
@@ -184,7 +184,7 @@ Specifications:
 
 - [Microsoft Teams and Skype for Business specifications for USB peripherals, PCs, and Microsoft Teams Room systems, versions 1-3](https://docs.microsoft.com/en-us/skypeforbusiness/certification/test-spec)
 - [Microsoft Lync Specifications for USB peripherals, PCs, and Lync room systems, versions A-F](https://docs.microsoft.com/en-us/skypeforbusiness/certification/test-spec)
-- 
+
 ### Periodic motion detection and analysis
 
 Part of my Ph.D. thesis was on detecting and analyzing periodic motion, especially biological motion like human gait. This work showed you can detect biological motion with very few pixels, and even identify people using this motion. 
