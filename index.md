@@ -109,6 +109,8 @@ Patents:
 
 I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high-resolution 360-degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360-degree cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
 
+<img src="RoundTable.png" width="300">
+
 Publications:
 
 - [Design and implementation of the University of Maryland Keck Laboratory for the analysis of visual movement](https://drum.lib.umd.edu/bitstream/handle/1903/1180/CS-TR-4329.pdf?sequence=1)
