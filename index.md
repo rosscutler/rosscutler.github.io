@@ -150,7 +150,7 @@ Patents:
 - [Automatic video framing](https://patentimages.storage.googleapis.com/55/f1/30/01adf7d692cb52/US8773499.pdf)
 - [Techniques for detecting a display device](https://patentimages.storage.googleapis.com/7d/c7/1e/fd57a819e39d5c/US8614734.pdf)
 
-### Audio DSP audio
+### Audio DSP
 
 I've implemented a number of audio DSP components also, such as speaking while muted detection, improved echo cancellers, and audio-based device discovery. Some of these are described below:
 
