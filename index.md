@@ -31,12 +31,12 @@ Challenges:
 - [ICASSP 2022 Acoustic Echo Cancellation Challenge](https://arxiv.org/pdf/2202.13290.pdf)
 - [INTERSPEECH 2021 Acoustic Echo Cancellation Challenge](https://www.researchgate.net/profile/Ross-Cutler/publication/352135082_INTERSPEECH_2021_ACOUSTIC_ECHO_CANCELLATION_CHALLENGE/links/60ba7de5458515218f8f8b88/INTERSPEECH-2021-ACOUSTIC-ECHO-CANCELLATION-CHALLENGE.pdf)
 - [ICASSP 2021 Deep Noise Suppression Challenge](https://arxiv.org/pdf/2009.06122.pdf)
-- [ICASSP 2021 acoustic echo cancellation challenge: Datasets, testing framework, and results](https://arxiv.org/pdf/2009.04972.pdf)
+- [ICASSP 2021 Acoustic Echo Cancellation Challenge: Datasets, testing framework, and results](https://arxiv.org/pdf/2009.04972.pdf)
 - [INTERSPEECH 2021 Deep Noise Suppression Challenge](https://arxiv.org/pdf/2101.01902.pdf)
 - [The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, subjective testing framework, and challenge results](https://arxiv.org/pdf/2005.13981.pdf)
 
 Speech quality assessment models:
-- [DNSMOS P. 835: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors](https://arxiv.org/pdf/2110.01763.pdf)
+- [DNSMOS P.835: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors](https://arxiv.org/pdf/2110.01763.pdf)
 - [AECMOS: A speech quality assessment metric for echo impairment](https://arxiv.org/pdf/2110.03010.pdf)
 - [DNSMOS: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors](https://arxiv.org/pdf/2010.15258.pdf)
 - [Intrusive and non-intrusive perceptual speech quality assessment using a convolutional neural network](https://www.researchgate.net/profile/Hannes-Gamper/publication/336722543_Intrusive_and_Non-Intrusive_Perceptual_Speech_Quality_Assessment_Using_a_Convolutional_Neural_Network/links/5daf5407a6fdccc99d92c60b/Intrusive-and-Non-Intrusive-Perceptual-Speech-Quality-Assessment-Using-a-Convolutional-Neural-Network.pdf)
