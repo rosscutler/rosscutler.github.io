@@ -2,7 +2,7 @@
 
 ## Ross Cutler
 
-I'm a Partner Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building software and hardware technologies. On this page, I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
+I'm a Partner Applied Scientist manager at Microsoft. I've been with Microsoft since 2000, joining Microsoft Research as a researcher after completing my Ph.D. in computer vision at the University of Maryland. My bachelor degrees are in computer science, math, and physics, and I'm comfortable building both software and hardware technologies. On this page, I'll include brief descriptions of some of the projects I've worked on, which have mostly been in the telecommunication domain - a very rich and satisfying area for applied research.
 
 You can find more info about me on my [LinkedIn page](https://www.linkedin.com/in/rosscutler) and my [Microsoft Research page]( https://www.microsoft.com/en-us/research/people/rcutler). 
 
@@ -59,7 +59,7 @@ Models, optimizations, other:
 
 ### ML video codec
 
-The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
+The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize an ML video codec challenge that uses this video quality assessement tool. And we will work with other companies to create a new ML video codec standard.
 
 Challenges:
 
@@ -110,7 +110,7 @@ Patents:
 
 ### Camera designs
 
-I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high-resolution 360-degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was made HD and shipped by Polycom. A newer 360-degree cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
+I've designed several types of cameras for human motion capture and teleconferencing besides the above light field cameras. My first commercial design was the RoundTable camera, a high-resolution 360-degree camera using a pentagonal prism and view cameras to minimize stitching error. That design was later made HD and shipped by Polycom. A newer 360-degree cost-reduced design uses just two cameras. I've also designed some front-of-the-room cameras, privacy-preserving webcams, and whiteboard cameras. Some of these are described below.
 
 <img src="RoundTable.png" width="300">
 
