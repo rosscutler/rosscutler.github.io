@@ -64,7 +64,7 @@ The goal of this project is to create an ML-based video codec with >2X the codin
 Challenges:
 
 - [CVPR 2022 Workshop and Challenge on Learned Image Compression](http://compression.cc)
-- 
+
 Publications:
 
 - [A crowdsourced implementation of ITU-T P.910](https://arxiv.org/pdf/2204.06784.pdf)
