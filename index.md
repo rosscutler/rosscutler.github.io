@@ -61,10 +61,22 @@ Models, optimizations, other:
 
 The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We will help organize multiple ML video codec challenges. And we will work with other companies to create a new ML video codec standard.
 
+Challenges:
+
+- [CVPR 2022 Workshop and Challenge on Learned Image Compression](http://compression.cc)
+- 
 Publications:
 
 - [A crowdsourced implementation of ITU-T P.910](https://arxiv.org/pdf/2204.06784.pdf)
-- [CVPR 2022 CLIC Challenge]()
+
+### Meeting effectiveness and inclusiveness
+
+Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal of this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
+
+Publications:
+
+- [Meeting effectiveness and inclusiveness in remote collaboration](https://arxiv.org/ftp/arxiv/papers/2102/2102.09803.pdf)
+- [Improving meeting inclusiveness using speech interruption analysis, ACM MM 2022]()
 
 ### ML bandwidth estimation and control
 
@@ -74,18 +86,9 @@ Publications:
 
 - [Reinforcement learning for bandwidth estimation and congestion control in real-time communications](https://arxiv.org/pdf/1912.02222.pdf)
 
-### Meeting effectiveness and inclusiveness
-
-Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal of this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
-
-Publications:
-
-- [Meeting effectiveness and inclusiveness in remote collaboration](https://arxiv.org/ftp/arxiv/papers/2102/2102.09803.pdf)
-- [Improving meeting inclusiveness using speech interruption analysis]()
-
 ### Active speaker detection
 
-I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal fusion to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products. ASD is still an active area of research and still a project I'm working on.
+I've been working on active speaker detection (ASD) since graduate school, where I developed the first neural network solution for multi-modal fusion to detect active speakers with a single microphone and camera. Since then I've implemented ASD several more times using microphone arrays, depth cameras, and deep learning, and have shipped it in multiple products, including Microsoft RoundTable. ASD is still an active area of research and still a project I'm working on.
 
 Publications:
 
