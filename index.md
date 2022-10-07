@@ -68,7 +68,7 @@ Challenges:
 
 Publications:
 
-- [A crowdsourced implementation of ITU-T P.910](https://arxiv.org/pdf/2204.06784.pdf)
+- [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
 
 ### Meeting effectiveness and inclusiveness
 
