@@ -72,7 +72,7 @@ Publications:
 
 ### Meeting effectiveness and inclusiveness
 
-Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal of this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of.
+Meetings are a pervasive method of communicating in companies and consume a lot of time and resources. The goal of this project was to determine if we could effectively measure the effectiveness and inclusiveness of meetings, and ultimately improve them. There has been research in modeling meeting effectiveness, but no prior research on measuring or modeling meeting inclusiveness. We provide the first methodology to measure and model meeting effectiveness and inclusiveness and show how they can be improved. One specific area to improve meeting inclusiveness is to better allow remote speakers to interrupt and talk in meetings, which we address with the first failed speech interruption model we are aware of. A demo video is [here](speech_interruption.mp4).
 
 Publications:
 
