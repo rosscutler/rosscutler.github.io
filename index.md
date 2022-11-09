@@ -21,7 +21,7 @@ A complete list of publications is in my [CV](CV.pdf).
 Below are some of the projects I've worked on.
 
 ### ML speech enhancement
-The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created a scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presence of noise, echo, packet loss, reverberation, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally, the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. An example video of Deep Noise Suppression is [here](https://www.microsoft.com/en-us/videoplayer/embed/RE4Lri4). A more recent example of Deep Echo Cancellation, Noise Suppresion, and Dereverberation in a single model is shown [here](https://www.youtube.com/watch?v=vii4bBqkINw). Examples of Deep Packet Loss Concealment are shown [here](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-maintains-audio-quality-even-in-challenging/ba-p/3640516). These models are now used by 100's of millions of Teams/Skype users for all audio calls.
+The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created a scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presence of noise, echo, packet loss, reverberation, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally, the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. An example video of Deep Noise Suppression is [here](https://www.microsoft.com/en-us/videoplayer/embed/RE4Lri4). A more recent example of Deep Echo Cancellation, Noise Suppression, and Dereverberation in a single model is shown [here](https://www.youtube.com/watch?v=vii4bBqkINw). Examples of Deep Packet Loss Concealment are shown [here](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-maintains-audio-quality-even-in-challenging/ba-p/3640516). These models are now used by 100's of millions of Teams/Skype users for all audio calls.
 
 Some publications for this project are:
 
@@ -60,7 +60,7 @@ Models, optimizations, other:
 
 ### ML video codec
 
-The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize an ML video codec challenge that uses this video quality assessement tool. And we will work with other companies to create a new ML video codec standard.
+The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize an ML video codec challenge that uses this video quality assessment tool. And we will work with other companies to create a new ML video codec standard.
 
 Challenges:
 
@@ -131,7 +131,7 @@ Patents:
 
 ### Video DSP 
 
-I've implemented many video DSP components, including panoramic stitching, smart gain control, camera calibration for panoramic cameras, normalizing the size of heads in video conferences, and demosiacing (used in Matlab and NASA Mars missings). Some of these are described below:
+I've implemented many video DSP components, including panoramic stitching, smart gain control, camera calibration for panoramic cameras, normalizing the size of heads in video conferences, and demosaicing (used in Matlab and NASA Mars missions). Some of these are described below:
 
 Publications:
 
