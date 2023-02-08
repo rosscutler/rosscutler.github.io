@@ -222,5 +222,5 @@ I have rich lineage of Ph.D. advisers, including these famous researchers:
 - Johannes Kepler
 - Nicolaus Copernicus
 
-For more details see ![here](cutler_math_genealogy.pdf).
+For more details see [here](cutler_math_genealogy.pdf).
 
