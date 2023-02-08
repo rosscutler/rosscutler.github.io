@@ -203,3 +203,24 @@ Publications:
 - [Motion-based recognition of people in eigengait space](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.1270&rep=rep1&type=pdf)
 - [Eigengait: Motion-based recognition of people using image self-similarity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.172&rep=rep1&type=pdf)
 - [Robust real-time periodic motion detection, analysis, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.3779&rep=rep1&type=pdf)
+
+### Mathematics genealogy
+I have rich lineage of Ph.D. advisers, including these famous researchers:
+
+- David Hilbert
+- Felix Klein
+- Rudolf Otto Sigismund Lipschitz
+- Carl Friedrich Gauss
+- Siméon Denis Poisson
+- Jean-Baptiste Joseph Fourier
+- Joseph Louis Lagrange
+- Pierre-Simon Laplace
+- Leonhard Paul Euler
+- Johann Bernoulli
+- Jacob Bernoulli
+- Friedrich Leibniz
+- Johannes Kepler
+- Nicolaus Copernicus
+
+For more details see ![here](cutler_math_genealogy.pdf).
+
