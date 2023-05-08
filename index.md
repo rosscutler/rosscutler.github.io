@@ -26,6 +26,9 @@ The goal of this project is to replace millions of lines of DSP-based speech enh
 Some publications for this project are:
 
 Challenges:
+- [ICASSP 2023 Speech Signal Improvement Challenge](https://arxiv.org/pdf/2303.06566.pdf)
+- [ICASSP 2023 Acoustic Echo Cancellation Challenge](https://www.researchgate.net/publication/366205532_ICASSP_2023_ACOUSTIC_ECHO_CANCELLATION_CHALLENGE#fullTextFileContent)
+- [ICASSP 2023 Deep Noise Suppression Challenge](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2023)
 - [INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge](https://arxiv.org/pdf/2204.05222.pdf)
 - [ConferencingSpeech 2022 Challenge: Non-intrusive Objective Speech Quality Assessment (NISQA) Challenge for Online Conferencing Applications](https://arxiv.org/pdf/2203.16032.pdf)
 - [ICASSP 2022 Deep Noise Suppression Challenge](https://arxiv.org/pdf/2202.13288.pdf)
@@ -76,6 +79,7 @@ Meetings are a pervasive method of communicating in companies and consume a lot 
 
 Publications:
 
+- [Real-time Speech Interruption Analysis: From Cloud to Client Deployment](https://arxiv.org/pdf/2210.13334.pdf)
 - [Meeting effectiveness and inclusiveness in remote collaboration](https://arxiv.org/ftp/arxiv/papers/2102/2102.09803.pdf)
 - [Improving meeting inclusiveness using speech interruption analysis, ACM MM 2022]()
 
