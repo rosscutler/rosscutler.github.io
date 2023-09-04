@@ -73,6 +73,8 @@ Challenges:
 Publications:
 
 - [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
+- [Full Reference Video Quality Assessment for Machine Learning-Based Video Codecs]()
+
 
 ### Meeting effectiveness and inclusiveness
 
