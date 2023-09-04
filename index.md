@@ -80,9 +80,10 @@ Meetings are a pervasive method of communicating in companies and consume a lot 
 
 Publications:
 
+- [Meeting effectiveness and inclusiveness: large-scale measurement, identification of key features, and prediction in real-world remote meetings](https://arxiv.org/pdf/2304.00652)
 - [Real-time Speech Interruption Analysis: From Cloud to Client Deployment](https://arxiv.org/pdf/2210.13334.pdf)
 - [Meeting effectiveness and inclusiveness in remote collaboration](https://arxiv.org/ftp/arxiv/papers/2102/2102.09803.pdf)
-- [Improving meeting inclusiveness using speech interruption analysis, ACM MM 2022]()
+- [Improving meeting inclusiveness using speech interruption analysis](https://arxiv.org/pdf/2304.00658)
 
 ### ML bandwidth estimation and control
 
