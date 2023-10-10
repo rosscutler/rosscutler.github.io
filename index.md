@@ -26,7 +26,7 @@ The goal of this project is to replace millions of lines of DSP-based speech enh
 Some publications for this project are:
 
 Challenges:
-- [ICASSP 2024 Speech Signal Improvement Challenge]([https://arxiv.org/pdf/2303.06566.pdf](https://www.microsoft.com/en-us/research/academic-program/speech-signal-improvement-challenge-icassp-2024/)
+- [ICASSP 2024 Speech Signal Improvement Challenge](https://www.microsoft.com/en-us/research/academic-program/speech-signal-improvement-challenge-icassp-2024)
 - [ICASSP 2024 Audio Deep Packet Loss Concealment Challenge](https://www.microsoft.com/en-us/research/academic-program/audio-deep-packet-loss-concealment-challenge-icassp-2024)
 - [ICASSP 2023 Speech Signal Improvement Challenge](https://arxiv.org/pdf/2303.06566.pdf)
 - [ICASSP 2023 Acoustic Echo Cancellation Challenge](https://www.researchgate.net/publication/366205532_ICASSP_2023_ACOUSTIC_ECHO_CANCELLATION_CHALLENGE#fullTextFileContent)
