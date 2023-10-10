@@ -57,7 +57,7 @@ Speech quality labeling:
 - [Speech Quality Assessment in Crowdsourcing: Comparison Category Rating Method](https://arxiv.org/pdf/2104.04371.pdf)
 
 Models, optimizations, other:
-- [DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic Echo Cancellation, Noise Suppression and Dereverberation] (https://arxiv.org/pdf/2306.03177.pdf)
+- [DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic Echo Cancellation, Noise Suppression and Dereverberation](https://arxiv.org/pdf/2306.03177.pdf)
 - [Aura: Privacy-preserving augmentation to improve test set diversity in noise suppression applications](https://arxiv.org/pdf/2110.04391.pdf)
 - [Performance optimizations on deep noise suppression models](https://arxiv.org/pdf/2110.04378.pdf)
 - [MusicNet: Compact Convolutional Neural Network for Real-time Background Music Detection](https://arxiv.org/pdf/2110.04331.pdf)
