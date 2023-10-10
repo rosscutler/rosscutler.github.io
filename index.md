@@ -40,6 +40,7 @@ Challenges:
 - [The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, subjective testing framework, and challenge results](https://arxiv.org/pdf/2005.13981.pdf)
 
 Speech quality assessment models:
+- [PLCMOS -- a data-driven non-intrusive metric for the evaluation of packet loss concealment algorithms](https://arxiv.org/pdf/2305.15127)
 - [DNSMOS P.835: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors](https://arxiv.org/pdf/2110.01763.pdf)
 - [AECMOS: A speech quality assessment metric for echo impairment](https://arxiv.org/pdf/2110.03010.pdf)
 - [DNSMOS: A non-intrusive perceptual objective speech quality metric to evaluate noise suppressors](https://arxiv.org/pdf/2010.15258.pdf)
@@ -49,12 +50,14 @@ Speech quality assessment models:
 - [Supervised classifiers for audio impairments with noisy labels](https://arxiv.org/pdf/1907.01742.pdf)
 
 Speech quality labeling:
+- [Multi-dimensional Speech Quality Assessment in Crowdsourcing](https://arxiv.org/pdf/2309.07385.pdf)
 - [Crowdsourcing approach for subjective evaluation of echo impairment](https://arxiv.org/pdf/2010.13063.pdf)
 - [An open source implementation of ITU-T recommendation P.808 with validation](https://arxiv.org/pdf/2005.08138.pdf)
 - [Subjective evaluation of noise suppression algorithms in crowdsourcing](https://arxiv.org/pdf/2010.13200.pdf)
 - [Speech Quality Assessment in Crowdsourcing: Comparison Category Rating Method](https://arxiv.org/pdf/2104.04371.pdf)
 
 Models, optimizations, other:
+- [DeepVQE: Real Time Deep Voice Quality Enhancement for Joint Acoustic Echo Cancellation, Noise Suppression and Dereverberation] (https://arxiv.org/pdf/2306.03177.pdf)
 - [Aura: Privacy-preserving augmentation to improve test set diversity in noise suppression applications](https://arxiv.org/pdf/2110.04391.pdf)
 - [Performance optimizations on deep noise suppression models](https://arxiv.org/pdf/2110.04378.pdf)
 - [MusicNet: Compact Convolutional Neural Network for Real-time Background Music Detection](https://arxiv.org/pdf/2110.04331.pdf)
@@ -72,6 +75,7 @@ Challenges:
 
 Publications:
 
+- [VCD: A Video Conferencing Dataset for Video Compression](https://arxiv.org/pdf/2309.07376)
 - [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
 - [Full Reference Video Quality Assessment for Machine Learning-Based Video Codecs]()
 
