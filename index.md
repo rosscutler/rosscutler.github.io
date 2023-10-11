@@ -107,6 +107,7 @@ I've been working on active speaker detection (ASD) since graduate school, where
 
 Publications:
 
+- [A Real-Time Active Speaker Detection System Integrating an Audio-Visual Signal with a Spatial Querying Mechanism](https://arxiv.org/pdf/2309.08295.pdf)
 - [Multimodal active speaker detection and virtual cinematography for video conferencing](https://arxiv.org/ftp/arxiv/papers/2002/2002.03977.pdf)
 - [Boosting-based multimodal speaker detection for distributed meeting videos](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/TMM08_SpeakerDet.pdf)
 - [Look who's talking: Speaker detection using video and audio correlation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3968&rep=rep1&type=pdf)
