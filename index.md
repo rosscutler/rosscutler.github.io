@@ -12,6 +12,7 @@ My Google Scholar page is [here](https://scholar.google.com/citations?user=Qee1A
 A complete list of publications is in my [CV](CV.pdf).
 
 ## Recent talks
+- IEEE VCIP Keynote, 2024. Photorealistic Avatars for Video Conferencing
 - IEEE IEMCON Keynote, 2022.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
 - RTC @ Scale, 2022. [Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
 - Intel Speech Conference Keynote, 2021.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
@@ -19,6 +20,12 @@ A complete list of publications is in my [CV](CV.pdf).
 
 ## Projects
 Below are some of the projects I've worked on.
+
+### Photorealistic avatars
+The goal for this project is to create photorealstic avatars for video conferencing scenarios that can provide a better user experience as measured by meeting effectiveness, inclusiveness, trust, empathy, and fatigue (as well as other metrics). We have defined and implemented the first multidimensional measurement of photorealistic avatar quality of experience. We have also organized the first academic challenge in this area. The ultimate goal is to replace the traditional video grid with a virtual meeting space that improves the quality of experience in all metrics. Some publications for this project are:
+
+- [A multidimensional measurement of photorealistic avatar quality of experience](https://arxiv.org/pdf/2411.09066)
+- CVPR 2025 Photorealistic Avatar Challenge
 
 ### ML speech enhancement
 The goal of this project is to replace millions of lines of DSP-based speech enhancement code in Teams/Skype with much better performing ML-based models that also offer new functionality. To do so we first created a scaleable crowdsourcing framework to rate 100's of thousands of clips cheaply and accurately. We created massive training and test sets to enable training ML models. We built the first accurate (PCC > 0.95) non-intrusive speech quality assessment models for speech in the presence of noise, echo, packet loss, reverberation, and PSTN distortions. We then created the first academic challenges for noise suppression, echo cancellation, and packet loss concealment. Finally, the models we built were integrated into Teams/Skype and AB tested to show significant end-to-end improvement. An example video of Deep Noise Suppression is [here](https://www.microsoft.com/en-us/videoplayer/embed/RE4Lri4). A more recent example of Deep Echo Cancellation, Noise Suppression, and Dereverberation in a single model is shown [here](https://www.youtube.com/watch?v=vii4bBqkINw). Examples of Deep Packet Loss Concealment are shown [here](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-maintains-audio-quality-even-in-challenging/ba-p/3640516). Voice Isolation is shown [here](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/voice-isolation-in-microsoft-teams-enables-personalized-noise/ba-p/4096077). These models are now used by 100's of millions of Teams/Skype users for all audio calls.
