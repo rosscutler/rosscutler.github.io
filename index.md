@@ -12,9 +12,10 @@ My Google Scholar page is [here](https://scholar.google.com/citations?user=Qee1A
 A complete list of publications is in my [CV](CV.pdf).
 
 ## Recent talks
+- @Scale, 2025. [How AI can revolutionize video conferencing](https://atscaleconference.com/videos/how-ai-can-revolutionize-video-conferencing)
 - IEEE VCIP Keynote, 2024. Photorealistic Avatars for Video Conferencing
 - IEEE IEMCON Keynote, 2022.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
-- RTC @ Scale, 2022. [Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
+- RTC @Scale, 2022. [Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype](https://atscaleconference.com/videos/developing-machine-learning-based-speech-enhancement-models-for-teams-and-skype-ross-cutler)
 - Intel Speech Conference Keynote, 2021.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
 - INTERNOISE Keynote, 2021.  Developing Machine Learning-Based Speech Enhancement Models for Teams and Skype
 
@@ -77,6 +78,10 @@ Models, optimizations, other:
 
 The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize an ML video codec challenge that uses this video quality assessment tool. And we will work with other companies to create a new ML video codec standard.
 
+Open source:
+
+- [MLVC](https://github.com/microsoft/mlvc)
+
 Challenges:
 
 - [CVPR 2022 Workshop and Challenge on Learned Image Compression](http://compression.cc)
@@ -84,6 +89,7 @@ Challenges:
 
 Publications:
 
+- [Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/pdf/2603.26763)
 - [VCD: A Video Conferencing Dataset for Video Compression](https://arxiv.org/pdf/2309.07376)
 - [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
 - [Full Reference Video Quality Assessment for Machine Learning-Based Video Codecs]()
