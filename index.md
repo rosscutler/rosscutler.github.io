@@ -76,7 +76,7 @@ Models, optimizations, other:
 
 ### ML video codec
 
-The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize an ML video codec challenge that uses this video quality assessment tool. And we will work with other companies to create a new ML video codec standard.
+The goal of this project is to create an ML-based video codec with >2X the coding efficiency of H.266/VVC. We are following a similar approach to our ML speech enhancement process. We first created an accurate video quality assessment tool that can label millions of clips cheaply. We helped organize 4 ML video codec challenges ([CLIC](https://clic2027.compression.cc/)) that uses this video quality assessment tool. We open sourced a new ML video codec MLVC that achieves >8X the compression rate of H.264. 
 
 Open source:
 
@@ -89,6 +89,7 @@ Challenges:
 
 Publications:
 
+- [MLVC: A Multi-platform Learned Video Codec for Real-World Deployment] (https://arxiv.org/pdf/2606.28027)
 - [Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/pdf/2603.26763)
 - [VCD: A Video Conferencing Dataset for Video Compression](https://arxiv.org/pdf/2309.07376)
 - [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
