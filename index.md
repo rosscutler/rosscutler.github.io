@@ -89,7 +89,7 @@ Challenges:
 
 Publications:
 
-- [MLVC: A Multi-platform Learned Video Codec for Real-World Deployment] (https://arxiv.org/pdf/2606.28027)
+- [MLVC: A Multi-platform Learned Video Codec for Real-World Deployment](https://arxiv.org/pdf/2606.28027)
 - [Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks](https://arxiv.org/pdf/2603.26763)
 - [VCD: A Video Conferencing Dataset for Video Compression](https://arxiv.org/pdf/2309.07376)
 - [A crowdsourcing approach to video quality assessment](https://arxiv.org/pdf/2204.06784.pdf)
